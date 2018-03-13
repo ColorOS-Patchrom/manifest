@@ -11,7 +11,7 @@ Repo synchronization
 
      mkdir patchrom
      cd patchrom
-     repo init -u git://github.com/OneLabsOrganization/patchrom.git -b jellybean42
+     repo init -u git://github.com/OneLabsOrganization/patchrom.git -b 4.2
      repo sync
 
 Build：
