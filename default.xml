@@ -9,9 +9,9 @@
            sync-j="4" />
 
   <project path="manifest" name="ColorOS/manifest" />
-  <project path="build" name="ColorOS/patchrom_build" />
-  <project path="device" name="ColorOS/patchrom_device" />
-  <project path="others" name="ColorOS/patchrom_others" />
-  <project path="smali" name="ColorOS/patchrom_smali" />
-  <project path="tools" name="ColorOS/patchrom_tools" />
+  <project path="build" name="ColorOS/build" />
+  <project path="device" name="ColorOS/device" />
+  <project path="others" name="ColorOS/others" />
+  <project path="smali" name="ColorOS/smali" />
+  <project path="tools" name="ColorOS/tools" />
 </manifest>
