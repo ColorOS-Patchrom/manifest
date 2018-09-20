@@ -8,7 +8,7 @@
            remote="github"
            sync-j="4" />
 
-  <project path="manifest" name="ColorOS/patchrom" />
+  <project path="manifest" name="ColorOS/manifest" />
   <project path="build" name="ColorOS/patchrom_build" />
   <project path="device" name="ColorOS/patchrom_device" />
   <project path="others" name="ColorOS/patchrom_others" />
